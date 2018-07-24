@@ -1,0 +1,4 @@
+#Tue Jul 24 16:16:58 GMT+08:00 2018
+base.0=D\:\\AndroidStudioProjects\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
