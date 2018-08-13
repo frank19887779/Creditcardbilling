@@ -13,6 +13,11 @@ public class Pet  {
     private String rserved;
     private String description;
 
+
+
+
+
+
     public Pet(String date, String amount, String rserved, String description) {
         this(0 , date, amount, rserved, description);
 
@@ -65,5 +70,6 @@ public class Pet  {
     public String getDescription() {
         return description;
     }
+
 
 }

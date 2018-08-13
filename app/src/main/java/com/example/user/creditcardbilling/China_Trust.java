@@ -1,6 +1,7 @@
 package com.example.user.creditcardbilling;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
@@ -10,10 +11,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.AbsSavedState;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -34,6 +37,11 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
 
     private Parcelable mListState = null;
     private static final String LIST_STATE = "list_state";
+    private Pet pet;
+
+    private TextView textView;
+    private Context context;
+    private String sss;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +57,8 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
 //        MyDBHelper helper = new MyDBHelper(this, "expense.db", null, 1);
 //        cursor = helper.getReadableDatabase().query("Pet ", null, null, null, null,
 //                null, null);
+
+
 
     }
 
@@ -68,7 +78,13 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
         mlistview.setAdapter(mAdapter);
         mAdapter.notifyDataSetChanged();
 
+
+//        textView = findViewById(R.id.總額);
+
+
     }
+
+
 
     public List<Pet> getPetList(){
         return helper.getAllPet();
@@ -140,8 +156,7 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
 
     @Override
     public void onItemClick(final AdapterView<?> parent, View view, final int position, long id) {
-
-        final Pet pet = petList.get(position);
+        pet = petList.get(position);
         String s = "第" + position + "項被點選";
         Log.d("China",s);
 

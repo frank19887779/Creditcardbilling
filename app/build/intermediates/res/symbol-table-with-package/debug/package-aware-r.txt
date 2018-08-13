@@ -993,8 +993,9 @@ int id 備註 0x7f0900c6
 int id 取消 0x7f0900c7
 int id 日期 0x7f0900c8
 int id 確定 0x7f0900c9
-int id 金額 0x7f0900ca
-int id 預留 0x7f0900cb
+int id 總額 0x7f0900ca
+int id 金額 0x7f0900cb
+int id 預留 0x7f0900cc
 int integer abc_config_activityDefaultDur 0x7f0a0000
 int integer abc_config_activityShortDur 0x7f0a0001
 int integer app_bar_elevation_anim_duration 0x7f0a0002

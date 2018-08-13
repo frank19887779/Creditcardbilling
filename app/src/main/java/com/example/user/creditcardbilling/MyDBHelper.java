@@ -2,7 +2,6 @@ package com.example.user.creditcardbilling;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
@@ -76,6 +75,7 @@ public class MyDBHelper extends SQLiteOpenHelper {
         return petList;
     }
 
+
     public Pet findById(int id){
         SQLiteDatabase db = getWritableDatabase();
         String[] columns = {
@@ -95,6 +95,19 @@ public class MyDBHelper extends SQLiteOpenHelper {
         cursor.close();
         return pet;
     }
+
+//    public Pet Sum(int id){
+//        SQLiteDatabase db = getWritableDatabase();
+//        String[] columns = { COL_amount };
+//        String selection = COL_id + " = ?; ";
+//        String[] selectionArgs = {String.valueOf(id)};
+//        Cursor cursor = db.query(TABLE_NAME, columns, selection, selectionArgs, null, null, null);
+//        Pet pet = null;
+//        String amount = cursor.getString(1);
+//        pet = new Pet(amount);
+//        cursor.close();
+//        return pet;
+//    }
 
 
     public long insert(Pet pet){

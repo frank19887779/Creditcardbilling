@@ -3836,8 +3836,9 @@ public final class R {
     public static final int 取消=0x7f0900c7;
     public static final int 日期=0x7f0900c8;
     public static final int 確定=0x7f0900c9;
-    public static final int 金額=0x7f0900ca;
-    public static final int 預留=0x7f0900cb;
+    public static final int 總額=0x7f0900ca;
+    public static final int 金額=0x7f0900cb;
+    public static final int 預留=0x7f0900cc;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;
