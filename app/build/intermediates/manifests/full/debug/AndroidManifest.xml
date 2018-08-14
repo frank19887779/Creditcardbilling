@@ -18,7 +18,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.user.creditcardbilling.MainActivity"
+            android:name="com.example.user.creditcardbilling.Start"
             android:label="@string/app_name"
             android:theme="@style/AppTheme" >
             <intent-filter>
@@ -30,6 +30,7 @@
         <activity android:name="com.example.user.creditcardbilling.AddActivity" />
         <activity android:name="com.example.user.creditcardbilling.China_Trust" />
         <activity android:name="com.example.user.creditcardbilling.UpdateActivity" />
+        <activity android:name="com.example.user.creditcardbilling.MainActivity" />
     </application>
 
 </manifest>

@@ -8,40 +8,45 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
+public class MainActivity extends AppCompatActivity /*implements AdapterView.OnItemClickListener*/ {
 
-    private ListView mlist;
-    private ArrayAdapter madapter;
-    private String[] func= {"中國信託", "渣打銀行"};
+//    private ListView mlist;
+//    private ArrayAdapter madapter;
+//    private String[] func= {"中國信託", "渣打銀行"};
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mlist= (ListView) findViewById(R.id.list);
-
-        madapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, func);
-        mlist.setAdapter(madapter);
-        mlist.setOnItemClickListener(this);
+//        mlist= (ListView) findViewById(R.id.list);
+//
+//        madapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, func);
+//        mlist.setAdapter(madapter);
+//        mlist.setOnItemClickListener(this);
 
     }
 
 
-    @Override
-    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        Intent intent;
-        switch (position){
-            case 0:
-                intent = new Intent(this, China_Trust.class);
-                startActivity(intent);
-                break;
-            case 1:
-                break;
-            case 2:
-                break;
-            case 3:
-                break;
-        }
+//    @Override
+//    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+//        Intent intent;
+//        switch (position){
+//            case 0:
+//                intent = new Intent(this, China_Trust.class);
+//                startActivity(intent);
+//                break;
+//            case 1:
+//                break;
+//            case 2:
+//                break;
+//            case 3:
+//                break;
+//        }
+//    }
+
+    public void click(View view) {
+        Intent intent = new Intent(this, China_Trust.class);
+        startActivity(intent);
     }
 }

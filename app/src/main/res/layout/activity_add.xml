@@ -91,6 +91,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="取消"
+            android:textColor="@android:color/white"
+            android:background="@color/mediumblue"
             android:layout_marginRight="6dp"
             android:onClick="cancel"/>
 
@@ -99,6 +101,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="確定"
+            android:textColor="@android:color/white"
+            android:background="@color/mediumblue"
             android:layout_marginLeft="6dp"
             android:onClick="click"/>
     </LinearLayout>

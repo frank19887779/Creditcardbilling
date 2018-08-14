@@ -12,17 +12,23 @@
         android:layout_height="wrap_content">
 
          <Button
-            android:id="@+id/add_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="新增"
-            android:onClick="add"/>
+             android:id="@+id/add_button"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_margin="16dp"
+             android:background="@color/mediumblue"
+             android:text="新增"
+             android:textColor="@android:color/white"
+             android:onClick="add"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="刷卡總額："
-            android:layout_marginLeft="16dp"/>
+            android:text="中國信託卡費"
+            android:textSize="30dp"
+            android:textAppearance="@style/Theme.AppCompat.Light.NoActionBar"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="22dp"/>
 
         <TextView
             android:id="@+id/總額"
@@ -34,7 +40,8 @@
     <ListView
         android:id="@+id/list2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent"
+        >
     </ListView>
 
     <TextView
