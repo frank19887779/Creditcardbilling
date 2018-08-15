@@ -16,7 +16,7 @@
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
              android:layout_margin="16dp"
-             android:background="@color/mediumblue"
+             android:background="@color/red"
              android:text="新增"
              android:textColor="@android:color/white"
              android:onClick="add"/>

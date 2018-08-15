@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -22,9 +23,10 @@ public class AddActivity extends AppCompatActivity {
     public static final String KEY3 = "3";
     public static final String KEY4 = "4";
 
-    private String mdate, mamount, mrserved, mdescription;
+    private String mdate, mamount, mrserved, mdescription, cdate;
 
     private TextView etdate, etamount, etrserved, etdescription;
+    private DatePicker datePicker;
 
 
     @Override
@@ -40,14 +42,19 @@ public class AddActivity extends AppCompatActivity {
         etamount = findViewById(R.id.amount);
         etrserved = findViewById(R.id.rserved);
         etdescription = findViewById(R.id.description);
+        datePicker = (DatePicker) findViewById(R.id.datePicker);
 
     }
 
     public void click(View view)  {
-        mdate = etdate.getText().toString().trim();
+//        mdate = etdate.getText().toString().trim();
         mamount = etamount.getText().toString().trim();
         mrserved = etrserved.getText().toString().trim();
         mdescription = etdescription.getText().toString().trim();
+        int year = datePicker.getYear();
+        int month = datePicker.getMonth() + 1;
+        int day = datePicker.getDayOfMonth();
+        cdate = year + "-" + month + "-" + day;
 //      Intent intent = getIntent();
 //      intent.putExtra(KEY1, mdate);
 //      intent.putExtra(KEY2, mamount); 
@@ -55,7 +62,7 @@ public class AddActivity extends AppCompatActivity {
 //      intent.putExtra(KEY4, mdescription);
 //      etResult(RESULT_OK, intent);
 
-        Pet pet = new Pet(mdate, mamount, mrserved, mdescription);
+        Pet pet = new Pet(cdate, mamount, mrserved, mdescription);
         long rowid = helper.insert(pet);
         Log.d("ADD", rowid+"");
 
