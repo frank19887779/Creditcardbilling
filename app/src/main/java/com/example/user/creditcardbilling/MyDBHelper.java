@@ -5,6 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.graphics.SumPathEffect;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,6 +24,8 @@ public class MyDBHelper extends SQLiteOpenHelper {
     private static final String COL_reserved = "reserved";
     private static final String COL_description = "description";
     private static final String COL_image = "image";
+
+    private static int m;
 
 
     private static final String TABLE_CREATE =
@@ -70,10 +73,36 @@ public class MyDBHelper extends SQLiteOpenHelper {
 
             Pet pet = new Pet(id, cdate, amount, reserved, description);
             petList.add(pet);
-        }
+            }
         cursor.close();
         return petList;
     }
+
+//    public String getmount(){
+//        SQLiteDatabase db = getReadableDatabase();
+//        String[] columns = {
+//                COL_id, COL_cdate, COL_amount, COL_reserved, COL_description
+//        };
+//        Cursor cursor = db.query(TABLE_NAME, columns, null, null,
+//                null, null, null);
+//
+//        String petList = null;
+//
+//        while (cursor.moveToNext()){
+//            int id = cursor.getInt(0);
+//            String cdate = cursor.getString(1);
+//            String amount = cursor.getString(2);
+//            String reserved = cursor.getString(3);
+//            String description = cursor.getString(4);
+//
+//
+//          petList = amount;
+//        }
+//        cursor.close();
+//
+//
+//        return petList;
+//    }
 
 
     public Pet findById(int id){
@@ -95,6 +124,8 @@ public class MyDBHelper extends SQLiteOpenHelper {
         cursor.close();
         return pet;
     }
+
+
 
 //    public Pet Sum(int id){
 //        SQLiteDatabase db = getWritableDatabase();

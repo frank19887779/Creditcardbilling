@@ -1,141 +1,141 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e3cda8cb1ffc326226e48ef52a4f4dc3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b9d1c7b169b5f7544ef824c6ba69448\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\09882bc32e2130a20fc819e6fbf8dbde\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8195ba82e7c166f73134a8901b15fff3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64b46af8c6d29692f8d94e00ef345f2b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8db9a0f30890452c216b78d83a4451bc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\793c402a45b7a62026c6fa828bffce61\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d613c0f92b24c645584ca46ac21b0b93\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549ea03875e1c6a3dc8d053b35758d11\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a1f2264b58838a3a308755f7f9dbbcdb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f99dd57ba6776f4c9f77f9deb7d1ab5d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\38b1fb82555bdfd6251f3f9da1adc799\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d645a1f8ef7c4532ebcab5b4e39927c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\00b2a603c44d6d9cd3e508a29be0e999\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e51d20a636ff827b88e6850918472a6e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b9670339ab4a4107358411dc1b5c6c58\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e90abc33425b2dd8edad5a942e136d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8ec5d596c9a47d915283d32638441609\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2f46e7d066fe18cd36a99849af5d2557\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac7faf3cb52e84891caf06f713b70922\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\73e95265e06730286f820cd5ead717c6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cc52ab5fc09f7d20d16b1ace3645e70d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a72f4662c091b27b1d7a4aca9d48bd19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6281aca8a4e69a250212db2478afbbe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25baffc35c3cbb3c50d137f276954d04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\02baa8b8dc146f06e31ccf710cfceddd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59520f8563cd87295afa851d70b746f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4f661797553b557276f1b1e568a42f49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ed671e67aec1740b9e6f515569d06f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7d0590e2563852ac875cac0b3952b4a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8bdbb3e69156047a62bad491395d68ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\332206bcaabeb468d957e09aa524cbab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb8a05bef8fa52fa6ad40bf600081e91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ec9b683912c8b7378ac58509a6f3970\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1f28cf1a42fc3fe3c7056d122a596cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aa9fbe12a9a62f6982bcc7127e2ae20\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:5:5-26:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\09882bc32e2130a20fc819e6fbf8dbde\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\09882bc32e2130a20fc819e6fbf8dbde\AndroidManifest.xml:9:5-20
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\73e95265e06730286f820cd5ead717c6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\73e95265e06730286f820cd5ead717c6\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.user.creditcardbilling.Start
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:14:13-45
 	android:theme
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:15:13-44
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:15:13-44
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:13:13-34
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:13:13-34
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.user.creditcardbilling.AddActivity
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:22:9-49
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:22:9-49
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:22:19-46
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:22:19-46
 activity#com.example.user.creditcardbilling.China_Trust
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:23:9-49
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:23:9-49
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:23:19-46
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:23:19-46
 activity#com.example.user.creditcardbilling.UpdateActivity
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:24:9-52
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:24:9-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:24:19-49
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:24:19-49
 activity#com.example.user.creditcardbilling.MainActivity
-ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:25:9-59
+ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:25:9-59
 	android:name
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml:25:19-47
 uses-sdk
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e3cda8cb1ffc326226e48ef52a4f4dc3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e3cda8cb1ffc326226e48ef52a4f4dc3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b9d1c7b169b5f7544ef824c6ba69448\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7b9d1c7b169b5f7544ef824c6ba69448\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\09882bc32e2130a20fc819e6fbf8dbde\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\09882bc32e2130a20fc819e6fbf8dbde\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8195ba82e7c166f73134a8901b15fff3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\8195ba82e7c166f73134a8901b15fff3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64b46af8c6d29692f8d94e00ef345f2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64b46af8c6d29692f8d94e00ef345f2b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8db9a0f30890452c216b78d83a4451bc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8db9a0f30890452c216b78d83a4451bc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\793c402a45b7a62026c6fa828bffce61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\793c402a45b7a62026c6fa828bffce61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d613c0f92b24c645584ca46ac21b0b93\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d613c0f92b24c645584ca46ac21b0b93\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549ea03875e1c6a3dc8d053b35758d11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\549ea03875e1c6a3dc8d053b35758d11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a1f2264b58838a3a308755f7f9dbbcdb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a1f2264b58838a3a308755f7f9dbbcdb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f99dd57ba6776f4c9f77f9deb7d1ab5d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f99dd57ba6776f4c9f77f9deb7d1ab5d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\38b1fb82555bdfd6251f3f9da1adc799\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\38b1fb82555bdfd6251f3f9da1adc799\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d645a1f8ef7c4532ebcab5b4e39927c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d645a1f8ef7c4532ebcab5b4e39927c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\00b2a603c44d6d9cd3e508a29be0e999\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\00b2a603c44d6d9cd3e508a29be0e999\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e51d20a636ff827b88e6850918472a6e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e51d20a636ff827b88e6850918472a6e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b9670339ab4a4107358411dc1b5c6c58\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b9670339ab4a4107358411dc1b5c6c58\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e90abc33425b2dd8edad5a942e136d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e90abc33425b2dd8edad5a942e136d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8ec5d596c9a47d915283d32638441609\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\frank\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8ec5d596c9a47d915283d32638441609\AndroidManifest.xml:20:5-44
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2f46e7d066fe18cd36a99849af5d2557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2f46e7d066fe18cd36a99849af5d2557\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac7faf3cb52e84891caf06f713b70922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ac7faf3cb52e84891caf06f713b70922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\73e95265e06730286f820cd5ead717c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\73e95265e06730286f820cd5ead717c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cc52ab5fc09f7d20d16b1ace3645e70d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cc52ab5fc09f7d20d16b1ace3645e70d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a72f4662c091b27b1d7a4aca9d48bd19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a72f4662c091b27b1d7a4aca9d48bd19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6281aca8a4e69a250212db2478afbbe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6281aca8a4e69a250212db2478afbbe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25baffc35c3cbb3c50d137f276954d04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25baffc35c3cbb3c50d137f276954d04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\02baa8b8dc146f06e31ccf710cfceddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\02baa8b8dc146f06e31ccf710cfceddd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59520f8563cd87295afa851d70b746f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\59520f8563cd87295afa851d70b746f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4f661797553b557276f1b1e568a42f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4f661797553b557276f1b1e568a42f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ed671e67aec1740b9e6f515569d06f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ed671e67aec1740b9e6f515569d06f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7d0590e2563852ac875cac0b3952b4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7d0590e2563852ac875cac0b3952b4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8bdbb3e69156047a62bad491395d68ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8bdbb3e69156047a62bad491395d68ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\332206bcaabeb468d957e09aa524cbab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\332206bcaabeb468d957e09aa524cbab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb8a05bef8fa52fa6ad40bf600081e91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb8a05bef8fa52fa6ad40bf600081e91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ec9b683912c8b7378ac58509a6f3970\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ec9b683912c8b7378ac58509a6f3970\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1f28cf1a42fc3fe3c7056d122a596cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1f28cf1a42fc3fe3c7056d122a596cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aa9fbe12a9a62f6982bcc7127e2ae20\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2aa9fbe12a9a62f6982bcc7127e2ae20\AndroidManifest.xml:20:5-44
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		ADDED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml
+		INJECTED from C:\APP\Creditcardbilling\app\src\main\AndroidManifest.xml

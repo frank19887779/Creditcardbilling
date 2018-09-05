@@ -1,13 +1,4 @@
-#Wed Aug 15 13:11:15 GMT+08:00 2018
-path.3=classes.dex
-path.2=classes.dex
-path.1=classes.dex
+#Thu Sep 06 00:57:08 CST 2018
+base.0=C\:\\APP\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=D\:\\AndroidStudioProjects\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.2=D\:\\AndroidStudioProjects\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.1=D\:\\AndroidStudioProjects\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.0=D\:\\AndroidStudioProjects\\Creditcardbilling\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12

@@ -1,6 +1,7 @@
 package com.example.user.creditcardbilling;
 
 import android.app.Activity;
+import android.app.DialogFragment;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -41,7 +42,9 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
 
     private TextView textView;
     private Context context;
-    private String sss;
+    private String mmm;
+    private static int m;
+    private int mm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -63,9 +66,11 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
     }
 
     public void init(){
+//        textView = findViewById(R.id.總額);
         mlistview = (ListView) findViewById(R.id.list2);
         mlistview.setEmptyView(findViewById(R.id.empty));
         mlistview.setOnItemClickListener(this);
+
 
     }
 
@@ -73,14 +78,12 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
     protected void onStart() {
         super.onStart();
         //helper.getAllPet();
+
         petList = getPetList();
+//        textView.setText(getMmm());
         mAdapter = new MainListAdapter(this, petList);
         mlistview.setAdapter(mAdapter);
         mAdapter.notifyDataSetChanged();
-
-
-//        textView = findViewById(R.id.總額);
-
 
     }
 
@@ -89,6 +92,21 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
     public List<Pet> getPetList(){
         return helper.getAllPet();
     }
+
+//    public String getMmm(){
+//        mmm = helper.getmount();
+//
+//        if(mmm == null){
+//            mmm = "0";
+//            m = Integer.parseInt(mmm);
+//        }else {
+//            mm = Integer.parseInt(mmm);
+//            m += mm;
+//            mmm = String.valueOf(m);
+//        }
+//        return mmm;
+//    }
+
 
     public void add(View view) {
         Intent intent = new Intent(this, AddActivity.class);
@@ -159,10 +177,10 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
         pet = petList.get(position);
         String s = "第" + position + "項被點選";
         Log.d("China",s);
+        final AlertDialog.Builder alertDialog = new AlertDialog.Builder(this);
 
-         new AlertDialog.Builder(this)
-                .setMessage("請選擇動作")
-                .setPositiveButton("修改", new DialogInterface.OnClickListener() {
+        alertDialog.setMessage("請選擇動作")
+                   .setPositiveButton("修改", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         Intent intent = new Intent(China_Trust.this, UpdateActivity.class);
@@ -177,8 +195,10 @@ public class China_Trust extends AppCompatActivity implements AdapterView.OnItem
                 .setNegativeButton("取消", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                    finish();
+
                     }
+
+
                 })
                 .setNeutralButton("刪除", new DialogInterface.OnClickListener() {
                     @Override

@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="350dp"
     android:layout_height="200dp"
-    android:minHeight ="160dp"
+    android:minHeight ="170dp"
     android:layout_gravity="center"
     android:padding="6dp"
     app:cardBackgroundColor="@color/madiumaquamarine"
@@ -28,18 +28,18 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:layout_marginLeft="10dp">
+        android:layout_height="match_parent"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="15dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="6dp"
             android:text="日期："
             android:textColor="@android:color/black"
-            android:textSize="26sp"
-            android:layout_marginTop="6dp"
-            android:layout_marginLeft="16dp"/>
+            android:textSize="26sp" />
 
         <TextView
             android:id="@+id/日期"
@@ -51,10 +51,11 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
             android:text="金額："
             android:textColor="@android:color/black"
             android:textSize="26sp"
-            android:layout_marginTop="6dp" />
+            android:layout_marginLeft="6dp"/>
 
         <TextView
             android:id="@+id/金額"
@@ -63,13 +64,14 @@
             android:text=""
             android:textColor="@android:color/black"/>
 
+
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:layout_marginLeft="6dp"
+        android:layout_marginLeft="10dp"
         android:layout_gravity="center">
 
         <TextView
@@ -84,7 +86,7 @@
         <TextView
             android:id="@+id/備註"
             android:layout_width="80dp"
-            android:layout_height="wrap_content"
+            android:layout_height="20dp"
             android:text=""
             android:textColor="@android:color/black"/>
 
@@ -94,7 +96,8 @@
             android:text="預留："
             android:textColor="@android:color/black"
             android:textSize="26sp"
-            android:layout_marginTop="6dp" />
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="6dp"/>
 
         <TextView
             android:id="@+id/預留"

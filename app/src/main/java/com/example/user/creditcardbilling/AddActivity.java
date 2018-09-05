@@ -38,7 +38,7 @@ public class AddActivity extends AppCompatActivity {
             helper = new MyDBHelper(this);
         }
 
-        etdate = findViewById(R.id.date);
+//        etdate = findViewById(R.id.date);
         etamount = findViewById(R.id.amount);
         etrserved = findViewById(R.id.rserved);
         etdescription = findViewById(R.id.description);
